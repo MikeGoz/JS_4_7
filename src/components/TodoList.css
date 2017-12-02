@@ -1,0 +1,26 @@
+/* Task 4.7 */
+
+.TodoList {
+	font-size:20px;
+	padding: 10px;
+	background: rgba(26, 26, 26, 0.568);
+	color: white;
+	text-align: left;
+	width: 620px;
+}
+li {
+	margin-left: -25px;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	padding-left: 10px;
+	border: 1px solid white;
+	background: black;
+}
+li:hover {
+	background: #b4b3b3;
+	cursor: pointer;
+	color: black;
+}
+ul {
+	list-style-type: none;
+}
